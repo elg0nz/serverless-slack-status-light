@@ -1,0 +1,6 @@
+chalice-env
+venv/
+.DS_Store
+.vscode/
+*.pem
+build/

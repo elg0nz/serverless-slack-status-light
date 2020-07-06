@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "app_name": "blinker",
+  "environment_variables": {
+    "AWS_IOT_ENDPOINT": "CUSTOM_AWS_IOT_ENDPOINT"
+  },
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api"
+    }
+  }
+}
