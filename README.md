@@ -5,6 +5,7 @@ Powered by AWS IoT
 
 
 ## Demo
+![Demo gif](demo.gif)
 
 ## Directory Structure:
 * aws-lambda - AWS Lambda functions powered by Chalice
@@ -62,7 +63,7 @@ Parameters:
 - [x] Setup instructions
 - [x] Clean up Aws lambda
 - [x] Make initial commit
-- [ ] Add Demo Gif
+- [x] Add Demo Gif
 - [ ] Draft blog post
 - [ ] Write down blog post
 - [ ] Erase this list
