@@ -5,6 +5,8 @@ Powered by AWS IoT
 
 ![Demo gif](demo.gif)
 
+More details available here: [Blog](blog.md)
+
 ## Directory Structure:
 * aws-lambda - AWS Lambda functions powered by Chalice
 * firmware - Source code our ESP8266 Firmware powered by Mongoose OS
