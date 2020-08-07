@@ -1,24 +1,23 @@
 # Serverless IoT Slack Status Light
 
-A light controlled by Slack to communicate your availability
+A light controlled by Slack to communicate your availability.
 Powered by AWS IoT
 
-
-## Demo
+![Demo gif](demo.gif)
 
 ## Directory Structure:
 * aws-lambda - AWS Lambda functions powered by Chalice
 * firmware - Source code our ESP8266 Firmware powered by Mongoose OS
 
 ## Requirements:
-* An AWS account
-* A NodeMCU ESP8266 Microcontroller [Amazon*](https://amzn.to/2VOt6pN)
+* A AWS account
+* A NodeMCU ESP8266 Microcontroller [Amazon*](https://amzn.to/2DHOSVU)
 * A BlinkM LED [Amazon*](https://amzn.to/3e010OH)
 * Prototyping Breadboard [Amazon*](https://amzn.to/3f186DX)
 * Jumper Wires [Amazon*](https://amzn.to/2NWUttq)
 * Mason Jar [Amazon*](https://amzn.to/2ZEoO5C)
 
-(* Affiliate Link)
+*Affiliate Links
 
 ## Instructions:
 1. Follow the Firmware setup in firmware/README.md 
@@ -54,15 +53,3 @@ Parameters:
 * red: 0-255 value
 * green: 0-255 value
 * blue: 0-255 value
-
-## TODO:
-- [x] Clean Repository
-- [x] Write down Requirements
-- [x] Document Blinker Commands
-- [x] Setup instructions
-- [x] Clean up Aws lambda
-- [x] Make initial commit
-- [ ] Add Demo Gif
-- [ ] Draft blog post
-- [ ] Write down blog post
-- [ ] Erase this list
