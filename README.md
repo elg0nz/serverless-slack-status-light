@@ -64,5 +64,5 @@ Parameters:
 - [x] Add Demo Gif
 - [x] Draft blog post
 - [x] Write down blog post
-- [ ] Proofread and Publish
+- [x] Proofread and Publish
 - [ ] Erase this list
