@@ -5,7 +5,7 @@ Powered by AWS IoT
 
 ![Demo gif](demo.gif)
 
-More details available here: [Blog](blog.md)
+More details available here: [Blog](Blog.md)
 
 ## Directory Structure:
 * aws-lambda - AWS Lambda functions powered by Chalice
