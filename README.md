@@ -53,16 +53,3 @@ Parameters:
 * red: 0-255 value
 * green: 0-255 value
 * blue: 0-255 value
-
-## TODO:
-- [x] Clean Repository
-- [x] Write down Requirements
-- [x] Document Blinker Commands
-- [x] Setup instructions
-- [x] Clean up Aws lambda
-- [x] Make initial commit
-- [x] Add Demo Gif
-- [x] Draft blog post
-- [x] Write down blog post
-- [x] Proofread and Publish
-- [ ] Erase this list
