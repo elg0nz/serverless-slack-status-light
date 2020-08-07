@@ -11,7 +11,7 @@ Powered by AWS IoT
 
 ## Requirements:
 * A AWS account
-* A NodeMCU ESP8266 Microcontroller [Amazon*](https://amzn.to/2VOt6pN)
+* A NodeMCU ESP8266 Microcontroller [Amazon*](https://amzn.to/2DHOSVU)
 * A BlinkM LED [Amazon*](https://amzn.to/3e010OH)
 * Prototyping Breadboard [Amazon*](https://amzn.to/3f186DX)
 * Jumper Wires [Amazon*](https://amzn.to/2NWUttq)
@@ -62,6 +62,7 @@ Parameters:
 - [x] Clean up Aws lambda
 - [x] Make initial commit
 - [x] Add Demo Gif
-- [ ] Draft blog post
-- [ ] Write down blog post
+- [x] Draft blog post
+- [x] Write down blog post
+- [ ] Proofread and Publish
 - [ ] Erase this list
