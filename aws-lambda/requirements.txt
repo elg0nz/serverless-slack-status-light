@@ -8,7 +8,7 @@ beautifulsoup4==4.7.1
 black==19.10b0
 botocore==1.16.2
 bs4==0.0.1
-certifi==2019.6.16
+certifi==2022.12.7
 cfscrape==2.0.7
 chalice==1.14.0
 chardet==3.0.4
