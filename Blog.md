@@ -16,9 +16,9 @@ Since I spend most of my working hours on Slack, using slack commands to control
 
 These are the Slack commands my Jar responds to:
 ```
-/set_availability available
-/set_availability away
-/set_availability busy
+/set_status available
+/set_status away
+/set_status busy
 ```
 
 The goal with this article is not just to document how this device was built, but to: a. draw the parallels between Developing Web APIs and building Embedded Systems, b. prove you can do IoT with a Serverless infrastructure.
